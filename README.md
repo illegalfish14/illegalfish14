@@ -1,43 +1,31 @@
-# Hi, I'm Faron 👋
+### Builder of AI agents, automations, and things that probably should have stayed side projects 🛠️
 
-**AI builder based in Dubai.** I like building and shipping products that solve real problems: LLM applications, AI agents, and the automation around them that makes a small team move like a big one.
+I'm a business grad who got hooked on building. I'd rather ship something rough on Friday and fix it on Monday than plan it forever. Most of what I make starts as *"surely a bot could do this"* and ends as an agent quietly doing a job nobody wanted.
 
-- 🚀 **Co-founder of [DaitaFix](https://daitafix.com)**: SaaS that helps online stores get found and used by AI assistants. 140 signups, 273 automated store audits across ~6,000 AI-platform queries, and an onboarding funnel I rebuilt to lift first-scan activation from 10% to 43%.
-- 🏦 **Previously at Ninety One Asset Management**: built an enterprise LLM app that drafts portfolio performance commentary (Python, OpenAI API, pandas), with a prompt and output audit trail and a Streamlit dashboard for the writing teams.
-- 🏆 **Hackathon winner**: built a mobile voice agent at the Dubai AI Hub Voice Agents Hackathon.
-- 🎓 **BSc Business & Management, First Class Honours**, University of Kent.
-- 🌍 Open to AI and early-stage startup roles, and willing to relocate.
+These days I'm in Dubai co-founding **[DaitaFix](https://daitafix.com)**, helping online stores show up when people ask AI assistants what to buy. We run it lean, so half the team is agents I've built.
 
-## Featured projects
+**A few things about how I work:**
+- 🤖 If I do something more than twice, I automate it
+- 🧪 I test ideas in the real world fast (ads, outreach, landing pages), then let the data argue with me
+- 🏁 I like hackathons: our team placed top 5 at the Dubai AI Hub Voice Agents Hackathon and walked away with credits
+- 📚 Currently learning React Native, and still finding out how much I don't know
 
-### 🤖 [The New Hire](https://github.com/illegalfish14/the-new-hire)
-**An AI operations teammate that lives in your team chat.** Six Claude-powered agents (analyst, writer, social drafter, pipeline tracker, digest, long-term memory) wired to Notion, GitHub and Gmail/Outlook. A single JSON profile adapts it to any business.
-`Node.js` `Claude API` `tool use` `discord.js` `Notion API` `OAuth` `node-cron`
+## What's public here
 
-- Agent loop with parallel tool calls, refusal handling and prompt caching
-- Schema-aware Notion layer: works with any database layout, no code changes
-- Human-in-the-loop approvals (✅ / 🔄 / ❌) that expire rather than auto-approve
-- Email safety boundary: sends only to the team, everything else becomes a draft
-- 30 tests against a scripted fake client, so they run with no network or API keys
+| | |
+|---|---|
+| 🤖 **[The New Hire](https://github.com/illegalfish14/the-new-hire)** | An AI operations teammate that lives in your team chat. Claude-powered agents for content, reporting and pipeline work, wired to Notion, GitHub and Gmail. |
+| 🏠 **[Property Prospects](https://github.com/illegalfish14/Property_prospect)** | Describe a house in plain English, get live listings, price charts and an AI market report. |
+| 🦆 **[Ducksnsuits](https://github.com/illegalfish14/NFTproject)** | Where it all started: a hand-built site for a pixel-art NFT collection. Be kind. |
 
-### 🏠 [Property Prospects](https://github.com/illegalfish14/Property_prospect)
-**Plain-English property search with AI market reports.** Type *"3 bed house in Birmingham under £350k"* and get live listings, price charts by street, a GPT-4 buy/hold/sell summary, and Excel / PDF exports.
-`Python` `Flask` `BeautifulSoup` `pandas` `seaborn` `OpenAI API`
+## What's not 🔒
 
-### 📈 Automated trading bot *(private)*
-Python bot deployed on a DigitalOcean VPS under PM2: three strategies on the Binance API (ETH scalping, BTC swing short, BTC liquidity sweep), Discord webhook alerts, and a 60-day paper-trading validation before going live.
-
-### 🦆 [Ducksnsuits](https://github.com/illegalfish14/NFTproject)
-**Where it started:** a hand-built responsive site for a 100-piece pixel-art NFT collection.
-`HTML` `CSS` `JavaScript`
+The honest truth is that my best work lives in private repos: company code, a live trading bot, and a couple of agent projects that aren't ready for daylight yet. Happy to walk you through any of them on a call.
 
 ## Toolbox
 
-**AI:** Claude API & Claude Code · OpenAI API · AI agents · MCP · prompt engineering · LLM output reliability and audit trails
-**Engineering:** Python (pandas, Flask, Streamlit) · JavaScript / Node.js · REST APIs and webhooks · Supabase (Postgres) · SQLite · Git · DigitalOcean · PM2
-**Automation & growth:** lifecycle email (Loops) · UTM / GA4 funnel tracking · Meta, Google and Bing Ads · Shopify · dashboards and experiment design
-**Learning:** React Native
+`Python` `JavaScript / Node.js` `Claude API` `OpenAI API` `AI agents` `MCP` `Flask` `pandas` `Supabase` `REST APIs` `Discord bots` `Notion API` `DigitalOcean` `GA4` `Meta / Google Ads`
 
-## Connect
+## Say hi
 
 [LinkedIn](https://linkedin.com/in/faron-mughal-2401898b)
