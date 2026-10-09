@@ -5,7 +5,7 @@ I'm a business grad who got hooked on building. I'd rather ship something rough 
 These days I'm in Dubai co-founding **[DaitaFix](https://daitafix.com)**, helping online stores show up when people ask AI assistants what to buy. We run it lean, so half the team is agents I've built.
 
 **A few things about how I work:**
-- 🤖 If I do something more than twice, I automate it
+- 🤖 If I do something more than four times, I automate it
 - 🧪 I test ideas in the real world fast (ads, outreach, landing pages), then let the data argue with me
 - 🏁 I like hackathons: our team placed top 5 at the Dubai AI Hub Voice Agents Hackathon and walked away with credits
 - 📚 Currently learning React Native, and still finding out how much I don't know
