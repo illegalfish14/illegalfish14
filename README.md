@@ -1,6 +1,12 @@
 # Hi, I'm Faron 👋
 
-I build **AI agents and automation** that take real work off small teams: bots that write, analyse, track pipelines and remember what the team decided. I care about the unglamorous parts that make them usable: safe defaults, human approval where it matters, cost-aware model use, and tests.
+**AI builder based in Dubai.** I like building and shipping products that solve real problems: LLM applications, AI agents, and the automation around them that makes a small team move like a big one.
+
+- 🚀 **Co-founder of [DaitaFix](https://daitafix.com)**: SaaS that helps online stores get found and used by AI assistants. 140 signups, 273 automated store audits across ~6,000 AI-platform queries, and an onboarding funnel I rebuilt to lift first-scan activation from 10% to 43%.
+- 🏦 **Previously at Ninety One Asset Management**: built an enterprise LLM app that drafts portfolio performance commentary (Python, OpenAI API, pandas), with a prompt and output audit trail and a Streamlit dashboard for the writing teams.
+- 🏆 **Hackathon winner**: built a mobile voice agent at the Dubai AI Hub Voice Agents Hackathon.
+- 🎓 **BSc Business & Management, First Class Honours**, University of Kent.
+- 🌍 Open to AI and early-stage startup roles, and willing to relocate.
 
 ## Featured projects
 
@@ -16,20 +22,22 @@ I build **AI agents and automation** that take real work off small teams: bots t
 
 ### 🏠 [Property Prospects](https://github.com/illegalfish14/Property_prospect)
 **Plain-English property search with AI market reports.** Type *"3 bed house in Birmingham under £350k"* and get live listings, price charts by street, a GPT-4 buy/hold/sell summary, and Excel / PDF exports.
-`Python` `Flask` `BeautifulSoup` `pandas` `seaborn` `OpenAI API` `FPDF`
+`Python` `Flask` `BeautifulSoup` `pandas` `seaborn` `OpenAI API`
+
+### 📈 Automated trading bot *(private)*
+Python bot deployed on a DigitalOcean VPS under PM2: three strategies on the Binance API (ETH scalping, BTC swing short, BTC liquidity sweep), Discord webhook alerts, and a 60-day paper-trading validation before going live.
 
 ### 🦆 [Ducksnsuits](https://github.com/illegalfish14/NFTproject)
-**My first web project:** a hand-built responsive site for a 100-piece pixel-art NFT collection, with no framework.
-`HTML` `CSS` `JavaScript` `GitHub Pages`
-
-## Coming soon
-
-**Outbound**: a deliverability-first outreach engine with paced sending, MX verification, bounce and reply handling, and compliance (suppression lists, unsubscribe, approval) built in.
+**Where it started:** a hand-built responsive site for a 100-piece pixel-art NFT collection.
+`HTML` `CSS` `JavaScript`
 
 ## Toolbox
 
-**Languages:** JavaScript / TypeScript · Python · HTML / CSS
-**AI:** Claude API (tool use, agents, prompt caching) · OpenAI API
-**Backend & data:** Node.js · Flask · pandas · SQLite · Supabase · Cloudflare Workers
-**Integrations:** Notion · GitHub · Gmail · Microsoft Graph · Discord
-**Frontend:** React · Tailwind · Vite
+**AI:** Claude API & Claude Code · OpenAI API · AI agents · MCP · prompt engineering · LLM output reliability and audit trails
+**Engineering:** Python (pandas, Flask, Streamlit) · JavaScript / Node.js · REST APIs and webhooks · Supabase (Postgres) · SQLite · Git · DigitalOcean · PM2
+**Automation & growth:** lifecycle email (Loops) · UTM / GA4 funnel tracking · Meta, Google and Bing Ads · Shopify · dashboards and experiment design
+**Learning:** React Native
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/faron-mughal-2401898b)
