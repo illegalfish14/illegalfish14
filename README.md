@@ -2,7 +2,7 @@
 
 I'm a business grad who got hooked on building. I'd rather ship something rough on Friday and fix it on Saturday than plan it forever. Most of what I make starts as *"surely a bot could do this"* and ends as an agent quietly doing a job nobody wanted.
 
-These days I'm in Dubai co-founding **[DaitaFix](https://daitafix.com)**, helping online stores show up when people ask AI assistants what to buy. We run it lean, so half the team is agents I've built.
+These days I'm in Dubai co-founding **[DaitaFix](https://daitafix.com)**, helping businesses leverage LLMS. We run it lean, so half the team is agents I've built.
 
 **A few things about how I work:**
 - 🤖 If I do something more than four times, I automate it
